@@ -16,3 +16,5 @@ urlpatterns = [
 ]
 
 app_name = "taxi"
+
+# path("manufacturers/", views.ManufacturerListView.as_view(), name="manufacturer_list")
